@@ -1,0 +1,195 @@
+/**************************************/
+body{
+    direction: rtl!important;
+    text-align: right!important;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: #3a4f63;
+    color: #fff;
+    font-size: 12pt;
+    font-family: Arial;
+    font-weight: 500;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.pad{
+    margin: 2px 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.p1{
+    margin: 0;
+    display: inline-block;
+}
+.siz{
+    font-size: 10pt;
+}
+.hh4{
+    display: inline;
+}
+.flotleft{
+    float: right;
+    margin-left: 15px;
+}
+.container-fluid{
+    padding-right: 0;
+}
+.menu{
+    color: #fff;
+    font-size: 10.5pt;
+    float: right;
+    line-height: 0;
+    margin-right: 30px;
+}
+.menu a{
+    color: #fff;
+
+}
+#logo{
+    position: relative;
+    top: -8px;
+    right: 30px;
+}
+#header1{
+    height: 29px;
+    background-color: #85b6d9;
+}
+#master_right{
+    position: relative;
+}
+#ulnav{
+    list-style: none;
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 15px;
+    padding: 0;
+    font-family: Tahoma;
+}
+.toplink{
+    display: block;
+    float: right;
+    height: 30px;
+    line-height: 12px;
+    color: #ccc;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0 4px;
+    cursor: pointer;
+}
+#ulnav li{
+    float: right;
+    position: relative;
+    right: 0;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    background-color: #3688c2;
+}
+#ulnav li a{
+    background: url("../images/icon/blank.gif");
+}
+#ulnav li a:hover{
+    background: url("../images/icon/blank_over.gif");
+    text-decoration: none;
+}
+#ulnav li a p:hover{
+    color: #fff;
+
+}
+#ulnav li a img{
+    margin: 1px;
+}
+#ulnav li a p{
+    line-height: 14px;
+    color: #ccc;
+    font-size: 13pt;
+    font-family: Arial;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 7px 12px;
+}
+/*#master_left{*/
+    /*background-color: #85b6d9;*/
+    /*float: left;*/
+    /*height: 30px;*/
+    /*width: 641px;*/
+    /*position: relative;*/
+    /*top: -5px;*/
+/*}*/
+
+/*@media (max-width: 1200px){*/
+    /*#master_left{*/
+        /*background-color: #85b6d9;*/
+        /*float: left;*/
+        /*height: 30px!important;*/
+        /*width: 641px!important;*/
+        /*position: relative;*/
+        /*top: 0!important;*/
+    /*}*/
+/*}*/
+@media (max-width: 1200px){
+    .hid{
+        display: none;
+    }
+}
+/*******************************************************/
+
+
+
+/*------------------------------------------------------------------------------*/
+
+/*  mohandes    norouzi*/
+
+/*information class------------------*/
+.my-font{font-family: Tahoma;}
+
+.onvan{background: #4c7cac;height: 22px;font-size: 12px;color:white;text-align: center;line-height: 20px;}
+.input_title div h6{padding: 0 0 ;margin: 2px 0 ;font-size: 11px;color: black;}
+.title_color div h6{font-size: 11px;color: black;}
+.input_title{background: #ffe6cd;}
+.title_color{background:#ffe6cd; }
+.first_row_we{padding-top: 12px;padding-right: 0;padding-left: 0;}
+.end_backgraund{width: 15%;background: #eeeeee;margin-top: 2px;border: 1px solid #cccccc;}
+.btn_class_we{height: 30px;line-height:18px;border-radius: 2px;padding: 2px 7px;margin: 2px 0 ;border: 1px solid dimgrey;font-family: Tahoma;height: 22px;}
+
+/* end information class--------------*/
+
+/*classes info_search*/
+
+
+.mybody_tabel{font-family: Tahoma;background: #b6b7bc;}
+.font_li li a{font-size: 10px;color: white!important;}
+.menu_li li a{font-size: 10px;padding:3px 5px!important;margin: 0 0 !important;color: white!important;border-right: 1px solid gray; }
+#menubar{border-radius: 0px!important;height: 30px!important;padding: 0 0 !important;margin: 0 0 !important;background: #307fb7!important;border: none!important;}
+.font_for_h6 div h6{font-size: 10px;}
+.color-for-h6 div div h6{color: white;}
+.color2-for-h6 div  h6{color: black!important;font-size:10px !important;}
+.color2-for-h6 div{overflow:hidden;}
+.color-for-h6 div div {text-align: center;}
+.img-margin div img{margin-top: 4px;width: 77%;margin-bottom:2px;}
+
+/*end classes*/
+
+/*----------------------------*/
+
+
+.my-font{font-family: Tahoma;background: #b6b7bc;}
+.container-background{background: white;}
+.x-height div {height: 25px;background:#cddff3;text-align: center;color: #4c7bb1;border: 1px solid #96a3b6;}
+.x-height div h6{margin: 2px auto ;font-size: 12px;}
+.natayej{min-height: 150px;border: 7px solid #006b8f;padding: 0 0; margin-bottom: 15px;padding-bottom: 8px;background: #d6e6f6;}
+.span-font span{font-size: 11px;}
+.markaz-class{background:#d6e6f6;height: 25px;}
+.markaz-class div{background: white; text-align: center;border-left: 1px solid #d6e6f6;}
+.markaz-class div h6{margin: 3px 0 ;height: 20px;}
+.markaz-class2 div{background:#d5dbe7 !important;}
+
+
+
+
+
+/*----------------------------------------------------------------------------------*/

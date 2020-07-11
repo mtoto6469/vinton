@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'B Theran';
+    src: url('fontt/B Theran.eot');
+    src: local('BBTheran'), url('fontt/B Theran.woff') format('woff'),
+    url('fontt/B Theran.ttf') format('truetype'), url('B Theran.svg') format('svg');
+
+}
